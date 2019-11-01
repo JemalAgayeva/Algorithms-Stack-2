@@ -1,0 +1,1 @@
+- [Algo Book Ch 7 Arrays Part II](http://algorithms.dojo.news/static/Algorithms/index.html#LinkTarget_2120)
